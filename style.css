@@ -22,3 +22,21 @@ body {
 .row {
   width: 150%;
 }
+
+.btn {
+  padding: 0px;
+}
+
+.fa-play,
+.fa-redo-alt {
+  color: #c6e7e7;
+  border: 2px;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+.fa-play:hover,
+.fa-redo-alt:hover {
+  color: #c6e7e7;
+  border: 2px solid;
+}
