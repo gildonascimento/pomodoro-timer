@@ -50,6 +50,9 @@ function start_timer() {
         minutos = 25;
         document.getElementById("minutos").innerHTML = minutos;
       }
+
+      segundos = 60;
+
     }
   }
 }
@@ -86,6 +89,9 @@ function start_intervalo() {
         minutos = 25;
         document.getElementById("minutos").innerHTML = minutos;
       }
+
+      segundos = 60;
+
     }
   }
 }
