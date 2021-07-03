@@ -40,3 +40,22 @@ body {
   color: #c6e7e7;
   border: 2px solid;
 }
+
+.timer5 {
+  border-radius: 0.5rem;
+  color: #032735;
+  font-size: 20px;
+  background-color: #C6E7E7;
+}
+
+.timer5:hover {
+  color: #C6E7E7;
+  background-color: #032735b7;
+  transition: 0.3s;
+  border: 2px solid;
+}
+
+.count {
+  color: #C6E7E7;
+  font-size: 20px;
+}
